@@ -1,0 +1,10 @@
+methane:methanol=ethane:?
+past:future=behind:?
+rusnok:czechia=singh:?
+fermion:electron=boson:?
+apple:us=huawei:?
+sociology:soft=physics:?
+key:lock=password:?
+aristotle:plato=plato:?
+Australia:act=us:?
+mexico:taco=china:?
